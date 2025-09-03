@@ -1,4 +1,4 @@
-# Goldship_bot
+# OguriCap_bot
 Discord Bot because people like to try and kick other people from server. So why not spice things up :3
 
 
@@ -14,3 +14,9 @@ Activate it:
 
 Install from requirements.txt
 `pip install -r requirements.txt`
+
+
+Go to the discord developers website
+(insert link here)
+
+New application.
